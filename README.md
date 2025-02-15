@@ -1,0 +1,1 @@
+# solana-auto-drain
