@@ -16,9 +16,6 @@ Developer: https://t.me/profcodes
  
 ![photo_2024-12-08_01-17-10](https://github.com/user-attachments/assets/99e13d03-7a93-488b-8853-fec0f0eebb7d)
 
-DISCLAIMER: 
-
-This is just for educational purpose and I am not responsible for any unlawful act of the usage.
 
 # SOLANA CRYPTO DRAINER
 SOLANA PHANTOM DRAINER
